@@ -1,2 +1,2 @@
 # hello-world
-Hello world repository
+The beginnings of learning how to code
